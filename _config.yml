@@ -223,3 +223,7 @@ defaults:
       comments: # true
       share: false
       related: false
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
