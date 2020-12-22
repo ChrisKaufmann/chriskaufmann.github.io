@@ -1,0 +1,34 @@
+main:
+  - title: "True Stories"
+    url: /true-stories/
+#  - title: "Reviews"
+#    url: /reviews/
+  - title: "3d Printing"
+    url: /3d-printing/
+#  - title: "Projects"
+#    url: /Projects/
+
+3d:
+  - title: "General"
+    url: /3d-printing/
+    children:
+      - title: "Calculating e-steps"
+        url: /3d-printing/esteps/
+      - title: "Spare parts"
+        url: /3d-printing/spare-parts/
+#      - title: "Upgrades"
+#        url: /3d-printing/upgrades/
+      - title: "Face Shield Stats"
+        url: /3d-printing/face-shields/
+      - title: "Startup gcode"
+        url: /3d-printing/gcode/
+#  - title: "Silence"
+#    children:
+#      - title: "Overview"
+#        url: /3d-printing/quiet-overview/
+#      - title: "Motors"
+#        url: /3d-printing/quiet-motors/
+#      - title: "Fans"
+#        url: /3d-printing/quiet-fans/
+#      - title: "Parts"
+#        url: /3d-printing/quiet-parts/
