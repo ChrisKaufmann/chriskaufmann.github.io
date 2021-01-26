@@ -1,6 +1,6 @@
 ---
 title: "Family Tree"
-date: 2021-01-22 10:11
+date: 2021-01-24 10:11
 permalink: /family-tree
 ---
 
@@ -163,7 +163,7 @@ permalink: /family-tree
 ['Thomas Bennett 1600-','Mary Bennett 1606-1673','Somersetshire, England'],
 ['Alice Pearce Sneale 1600-1647','Mary Bennett 1606-1673',''],
 ['Capt. John Blackwell Sr 1646-1688','Elizabeth Blackwell 1662-1691','Barnstable Massachusetts Bay, British Colony'],
-['Sarah Warren 1649-1690','Mary Bennett 1606-1673','Plymouth, Massachusetts Bay, British Colony'],
+['Sarah Warren 1649-1690','Elizabeth Blackwell 1662-1691','Plymouth, Massachusetts Bay, British Colony'],
 ['Michael Blackwell 1616-1710','Capt. John Blackwell Sr 1646-1688','Norfolk, England'],
 ['Unknown 1622-1709','Capt. John Blackwell Sr 1646-1688',''],
 ['Nathaniel Warren 1625-1667','Sarah Warren 1649-1690','Plymouth, Massachusetts Bay, British Colony'],
@@ -186,8 +186,8 @@ permalink: /family-tree
 ['Elizabeth Walker 1583-1673','Nathaniel Warren 1625-1667','Hertfordshire, England'],
 ['Christopher Warren 1546-1587','Richard Warren -1628','Cornwall, England'],
 ['Alice Webb 1559-1586','Richard Warren -1628','Devon, England'],
-['Augustine Walker 1550-1614','Elizabeth Walker 1583-167','Hertfordshire, England'],
-['Elizabeth 1551-1614','Elizabeth Walker 1583-167','Hertfordshire, England'],
+['Augustine Walker 1550-1614','Elizabeth Walker 1583-1673','Hertfordshire, England'],
+['Elizabeth 1551-1614','Elizabeth Walker 1583-1673','Hertfordshire, England'],
 ['William Walker 1620-1703','Sarah Walker 1622-1700','Lancashire, England'],
 ['Sarah Snow 1632-1703','Sarah Walker 1622-1700','Plymouth, Massachusetts, British Colony'],
 ['William Walker 1565-1625','William Walker 1620-1703','Lancashire, England'],
@@ -204,22 +204,52 @@ permalink: /family-tree
 ['George Barnes 1510-','Elizabeth Barnes 1534-','Berks, England'],
 ['Mrs. George Barnes 1514-','Elizabeth Barnes 1534','Berks, England'],
 
-['','',''],
-['','',''],
-['','',''],
-['','',''],
-['','',''],
-['','',''],
-['','',''],
-['','',''],
-['','',''],
-['','',''],
-['','',''],
-['','',''],
-['','',''],
-['','',''],
-['','',''],
-['','',''],
+['Michael Blackwell 1600-1700','Michael Blackwell 1616-1710','England'],
+['Unknown 1600-1700','Michael Blackwell 1616-1710','Yorkshire, England'],
+
+
+['William De Warren 1532-1559','Christopher Warren 1546-1587','Devon, England'],
+['Ann Margaret Mable 1525-1562','Christopher Warren 1546-1587','Cornwall, England'],
+['Thomas John Richmond 1529-1560','Alice Webb 1559-1586','Devon, England'],
+['Edetha Marie Calne Grene 1519-1609','Alice Webb 1559-1586','Wiltshire, England'],
+['Christopher Warren 1476-1531','William De Warren 1532-1559','Cheshire, England'],
+['Lady Margaret Jane Leigh 1518-1575','William De Warren 1532-1559','Lancashire, England'],
+['Thomas Mable 1489-1581','Ann Margaret Mable 1525-1562','Cornwall, England'],
+['Mrs. Thomas Mable 1505-','Ann Margaret Mable 1525-1562','Cornwall, England'],
+['Mr Mable 1494-','Thomas Mable 1489-1581','Cornwall, England'],
+['Mrs Mable 1498-','Thomas Mable 1489-1581','Cornwall, England'],
+
+['John Warren 1459-1522','Christopher Warren 1476-1531','Devon, England'],
+['Eleanor Gerard 1467-1561','Christopher Warren 1476-1531','Devon, England'],
+['Sir Peter Piers Leigh 1442-1527','Lady Margaret Jane Leigh 1518-1575','Cheshire, England'],
+['Lady Margery Radclyffe 1461-1528','Lady Margaret Jane Leigh 1518-1575','Lancashire, England'],
+['Lawrence de Warren 1435-1474','John Warren 1459-1522','England'],
+['Mrs Lawrence Warren 1425-1475','John Warren 1459-1522','Cheshire, England'],
+['Gerard 1544-','Eleanor Gerard 1467-1561','Dorset, England'],
+['Mrs. Gerard 1544-','Eleanor Gerard 1467-1561','Dorset, England'],
+['Peter Piers de Leigh 1389-1422','Sir Peter Piers Leigh 1442-1527','Cheshire, England'],
+['Margaret Danvers 1348-1428','Sir Peter Piers Leigh 1442-1527','Cheshire, England'],
+['Sir John Radcliffe 1414-1485','Lady Margery Radclyffe 1461-1528','Lancashire, England'],
+['Isabel Tyldesley 1433-1513','Lady Margery Radclyffe 1461-1528','Lancashire, England'],
+
+['Sir John Hutchinson Walker 1530-1576','Augustine Walker 1564-1614','Warwickshire, England'],
+['Katherine Bicknill 1535-1562','Augustine Walker 1564-1614','Warwickshire, England'],
+['Sir John Thomas Walker I 1495-1575','Sir John Hutchinson Walker 1530-1576','Warwickshire, England'],
+['Anne Chelscombe 1500-1576','Sir John Hutchinson Walker 1530-1576','Warwickshire, England'],
+['William E. Bicknell I 1513-1599','Katherine Bicknill 1535-1562','Warwickshire, England'],
+['Mary De Forte 1503-1564','Katherine Bicknill 1535-1562','Worchestershire, England'],
+
+['William Waller Sheriff van Kent 1470-1555','Sir John Thomas Walker I 1495-1575','Kent, England'],
+['Lady Anna Symons Waller 1470-1542','Sir John Thomas Walker I 1495-1575','Hampshire, England'],
+['Lord Thomas Chelescombe 1475-1560','Anne Chelscombe 1500-1576','Hertfordshire, England'],
+['Margaret Allan 1480-1500','Anne Chelscombe 1500-1576','Warwickshire, England'],
+['Sir Knight John Henry Waller 1435-1517','William Waller Sheriff van Kent 1470-1555','Kent, England'],
+['Johanna Whitehall 1444-','William Waller Sheriff van Kent 1470-1555','Kent, England'],
+['Sir William Willem Falleumar Falconer 1440-1490','Lady Anna Symons Waller 1470-1542','Hampshire, England'],
+['Anne Lady Palmer 1443-1495','Lady Anna Symons Waller 1470-1542','London, England'],
+['N.N. Cleynaert -','Lord Thomas Chelescombe 1475-1560','Warwickshire, England'],
+['Joffrouw Isabella Cleijnaels 1450-1520','Lord Thomas Chelescombe 1475-1560','Noord-Brabant, Nederland'],
+
 ['','',''],
         ]);
 
