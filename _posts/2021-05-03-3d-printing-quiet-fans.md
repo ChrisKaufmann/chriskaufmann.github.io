@@ -1,6 +1,6 @@
 ---
 title: "Quiet Fans"
-date: 2021-05-03 15:17:00
+date: 2021-05-10 15:17:00
 sidebar:
   nav: "3d"
 permalink: /3d-printing/quiet-fans/
@@ -32,7 +32,8 @@ Ender 6 has a total of 3 buck converters
 
 
 
- Misc
+Misc
+
 | Name					| Price 	| Link |
 | -------				| -----		| ---- |
 | Fan header/splitter	| $7.60		| (Amazon)[https://amzn.to/3aZDKBC] |
