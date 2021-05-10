@@ -35,5 +35,5 @@ Ender 6 has a total of 3 buck converters
  Misc
 | Name					| Price 	| Link |
 | Fan header/splitter	| $7.60		| (Amazon)[https://amzn.to/3aZDKBC] |
-| Buck Converter		| 4/$16.99	| (amazon)[https://amzn.to/3efrNtN]|
+| Buck Converter		| 4/$16.99	| (amazon)[https://amzn.to/2RDz7Xa] |
 
