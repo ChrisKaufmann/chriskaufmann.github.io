@@ -1,6 +1,6 @@
 ---
 title: "Epic Road Trip Gas Statistics"
-date: 2021-08/19
+date: 2021-08-19
 permalink: /2021-road-trip-stats
 ---
 
