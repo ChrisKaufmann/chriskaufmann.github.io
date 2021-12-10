@@ -8,11 +8,14 @@ webrick:
 ---
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script>
-google.charts.load('current', {packages: ['corechart', 'line']});
+google.charts.load('current', {packages: ['line']});
 google.charts.setOnLoadCallback(drawChart);
 function drawChart() {
- var data = google.visualization.arrayToDataTable([
-  ['Year','0-34','18-34','18-34*'],
+  data.addColumn('number', 'Year');
+  data.addColumn('number', '0-34');
+  data.addColumn('number', '18-34');
+  data.addColumn('number', '18-34**');
+  data.addRows([
   ["1939",7,4,4],
   ["1940",7,3,4],
   ["1941",7,3,5],
@@ -65,11 +68,10 @@ function drawChart() {
  ]);
 }
 var options = {
-  title: 'Recessions by year of birth before age of 35',
-  legend: {position: 'bottom'}
+  chart: {title: 'Recessions by year of birth before age of 35'}
 }
-  var chart = new google.visualization.LineChart(document.getElementById('line_chart'));
-  chart.draw(data, options);
+  var chart = new google.charts.Line(document.getElementById('line_chart'));
+  chart.draw(data, google.charts.Line.convertOptions(options));
 </script>
 
 <div id="line_chart" style="width: 900px; height: 500px"></div>
