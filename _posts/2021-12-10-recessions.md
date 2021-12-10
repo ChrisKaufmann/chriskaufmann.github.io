@@ -12,6 +12,7 @@ webrick:
   google.charts.setOnLoadCallback(drawChart);
 
   function drawChart() {
+  var data = new google.visualization.DataTable();
   data.addColumn('number', 'Year');
   data.addColumn('number', '0-34');
   data.addColumn('number', '18-34');
