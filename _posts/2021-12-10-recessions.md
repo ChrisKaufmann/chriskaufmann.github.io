@@ -16,6 +16,7 @@ If you count working ages (let's go with the coveted 18-34 demographic, for fun)
 40-42, 46-52 have three<br>
 The rest: 44-45, 53-62,73, and 86-87 (having the two big ones) have two.<br>
 (A note on the data, it is only counting the start year of the recessions, and not multiple-year long ones just because the math is easier. This affects 73-75, 80-82, 90-91, and 08-09 and mostly makes those born from 46-62 have drastically more, at least 5 and as high as 7. Amazingly, the 2020 recession only officially lasted two months but was so drastic that it still reverberates)
+</p>
 </div>
 <div id="line_chart" style="width: 900px; height: 500px"></div>
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
